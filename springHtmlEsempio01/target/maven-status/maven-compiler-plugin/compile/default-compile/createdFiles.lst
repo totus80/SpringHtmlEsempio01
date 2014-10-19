@@ -1,0 +1,5 @@
+it\html\spring\report\Report.class
+it\html\spring\report\ReportGeneratorFactory.class
+it\html\spring\report\TxtReport.class
+it\html\spring\report\ReportGenerator.class
+it\html\spring\report\ReportClient.class
